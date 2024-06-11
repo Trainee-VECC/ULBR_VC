@@ -15,7 +15,7 @@ dataset_params:
 
 model_params:
   common_params:
-    num_tps: 10
+    num_tps: 20
     num_channels: 3
     bg: True
     multi_mask: True
